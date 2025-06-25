@@ -77,8 +77,4 @@ String password = "your_mysql_password";
 📌 Notes
 - Ensure your MySQL server is running before launching the application.
 - For optimal performance, run the server component first before connecting clients.
-- GUI may differ slightly based on your OS and screen resolution.
-🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
-📜 License
-This project is licensed under the MIT License.
+
